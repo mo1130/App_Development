@@ -9,3 +9,5 @@ App Dev
 3)record
 
 4)type
+
+5)radio
